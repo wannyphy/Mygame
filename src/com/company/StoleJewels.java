@@ -17,11 +17,12 @@ public class StoleJewels {
                 i=6;
                 System.out.println("you loose");
             }
-            if(pos1.equals("7")){
+            else if(pos1.equals("7")){
                 System.out.println("you find the treasure");
+                i=6;
             }
             else
-            System.out.println("continue");
+                System.out.println("continue");
         }
 
     }
