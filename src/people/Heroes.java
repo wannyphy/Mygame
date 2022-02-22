@@ -1,4 +1,4 @@
-package services;
+package people;
 
 import entity.Entity;
 import people.Magicians;

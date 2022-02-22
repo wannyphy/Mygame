@@ -1,8 +1,6 @@
 package com.company;
 
-import entity.MapGame;
-import people.Magicians;
-import services.Heroes;
+import people.Heroes;
 
 import java.util.Scanner;
 
